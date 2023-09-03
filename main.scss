@@ -90,7 +90,7 @@ section.landing{
       }
       img{
         max-width: 100%;
-        width: 300px;
+        width: auto;
         @include prefix(border-radius, 250px, webkit moz o);
       }
     }
