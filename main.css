@@ -172,6 +172,9 @@ footer ul a svg:hover {
 }
 
 @media (max-width: 576px) {
+  ul.links a {
+    font-size: 16px !important;
+  }
   section.landing #infosection .info p {
     font-size: 1rem !important;
   }
